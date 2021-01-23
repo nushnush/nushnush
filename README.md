@@ -5,6 +5,8 @@
   I have been managing and developing game servers for 7 years, especially in Team Fortress 2. I love spending my freetime playing videogames, and learning / testing different technologies.
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nushnush&color=blueviolet" alt="caue-alves" /> </p>
+
 ### 🚀 My Skills:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
