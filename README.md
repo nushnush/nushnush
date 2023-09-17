@@ -2,7 +2,7 @@
 
 ## 💜 Hi, my name is <strong>Yelks </strong>👋
 <p align="left"> 
-  I have been managing and developing game servers for 9 years, especially in Team Fortress 2. I love spending my freetime playing videogames, and learning / testing different technologies.
+  I have been managing and developing game servers for 10 years, especially in Team Fortress 2. I love spending my freetime playing videogames, and learning / testing different technologies.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nushnush&color=blueviolet" alt="caue-alves" /> </p>
