@@ -30,3 +30,10 @@
 </div>
 
 ### 💌 You can also <a href="http://www.yelksdev.xyz/" target="_blank">Contact Me.</a>
+### 🧑‍💻 My Private Plugins
+- Brand-New JailBreak Mod for TF2.
+- Gameserver designed for gambling.
+- Steam Donation Bot for gameservers.
+- Australiums, Unusual Hats, Paints, Wearables for TF2.
+- And more. 
+
