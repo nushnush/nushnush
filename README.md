@@ -29,7 +29,7 @@
   </p>
 </div>
 
-### 💌 You can also <a href="http://www.yelksdev.xyz/" target="_blank">Contact Me.</a>
+### 💌 You can also <a href="https://steamcommunity.com/profiles/76561198164353433" target="_blank">Contact Me.</a>
 ### 🧑‍💻 My Private Plugins
 - Brand-New JailBreak Mod for TF2.
 - Gameserver designed for gambling.
