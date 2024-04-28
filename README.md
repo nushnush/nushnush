@@ -33,7 +33,7 @@
 ### 🧑‍💻 My Private Plugins
 - Brand-New JailBreak Mod for TF2.
 - Gameserver designed for gambling.
-- - Gameserver designed for Strange Farming Kills.
+- Gameserver designed for Strange Farming Kills.
 - Steam Donation Bot for gameservers.
 - Australiums, Unusual Hats, Paints, Wearables for TF2.
 - And more. 
