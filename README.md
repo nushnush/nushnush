@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-## 💜 Hi, my name is <strong>Yelks </strong>👋
 <p align="left"> 
   I have been managing and developing game servers for 10 years, especially in Team Fortress 2. I love spending my freetime playing videogames, and learning / testing different technologies.
 </p>
