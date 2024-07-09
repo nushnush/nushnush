@@ -13,7 +13,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c1a8f4dfd9334aeb28220dbad6175d47e6332823/logos/c-plusplus.svg" alt="C++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c1a8f4dfd9334aeb28220dbad6175d47e6332823/logos/c-sharp.svg" alt="C#"/></code>
